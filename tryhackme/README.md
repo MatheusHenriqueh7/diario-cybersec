@@ -7,6 +7,7 @@ Esta pasta reúne minhas documentações de salas e laboratórios realizados no 
 - [Wireshark: The Basics](./wireshark-the-basics/README.md)
 - [TCPDUMP: The Basics](./tcpdump-the-basics/README.md)
 - [NMAP: The Basics](./nmap-the-basics/README.md)
+- [Hashing: The Basics](./hashing-the-basics/README.md)
 
 ## Objetivo das documentações
 
