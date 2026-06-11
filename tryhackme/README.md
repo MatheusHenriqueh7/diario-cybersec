@@ -9,6 +9,7 @@ Esta pasta reúne minhas documentações de salas e laboratórios realizados no 
 - [NMAP: The Basics](./nmap-the-basics/README.md)
 - [Hashing: The Basics](./hashing-the-basics/README.md)
 - [SOC: Introduction](./introduction-to-soc/README.md)
+- [Incident: Response](./Incident-Response/README.md)
 ## Objetivo das documentações
 
 Cada writeup registra:
